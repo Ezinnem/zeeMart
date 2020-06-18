@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import data from './data';
+// import data from './data';
 import { BrowserRouter, Route, Link} from 'react-router-dom';
 import HomeScreen from './Screen/HomeScreen';
 import ProductScreen from './Screen/ProductScreen';
@@ -19,7 +19,6 @@ function App() {
         <div className="brand">
             <button onClick={openMenu}>&#9776;</button>
             <Link to="/">Zeemart</Link>
-            {/* <a href="index.html">Zeemart</a> */}
         </div>
         <div className="header-links">
             <a href="cart.html">Cart</a>
