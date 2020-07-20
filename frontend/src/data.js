@@ -9,7 +9,8 @@ export default {
         brand: 'Gucci',
         rating: 4.5,
         numReviews: 15,
-        description: "Pant suits for elegance Ladies"
+        description: "Pant suits for elegance Ladies",
+        reviews: ['great', 'Nice']
     },
     {
         _id:'2',
@@ -20,7 +21,8 @@ export default {
         brand: 'Gucci',
         rating: 4.5,
         numReviews: 15,
-        description: "Ball gown for Ladies"
+        description: "Ball gown for Ladies",
+        reviews: ['great', 'Nice']
     },
     {
         _id:'3',
@@ -31,7 +33,8 @@ export default {
         brand: 'Gucci',
         rating: 4.5,
         numReviews: 15,
-        description: "Memorable expreience is created for elegance Ladies"
+        description: "Memorable expreience is created for elegance Ladies",
+        reviews: ['great', 'Nice']
     },
     {
         _id:'4',
@@ -42,7 +45,8 @@ export default {
         brand: 'Gucci',
         rating: 4.0,
         numReviews: 20,
-        description: "Brings out the boss Lady in you"
+        description: "Brings out the boss Lady in you",
+        reviews: ['great', 'Nice']
     },
     {
         _id:'5',
@@ -53,7 +57,8 @@ export default {
         brand: 'Gucci',
         rating: 4.0,
         numReviews: 20,
-        description: "Makes the official appearance like never before"
+        description: "Makes the official appearance like never before",
+        reviews: ['great', 'Nice']
     },
     {
         _id:'6',
@@ -64,6 +69,7 @@ export default {
         brand: 'Gucci',
         rating: 3.5,
         numReviews: 12,
-        description: "Perfect feminine look"
+        description: "Perfect feminine look",
+        reviews: ['great', 'Nice']
     },]
 }
